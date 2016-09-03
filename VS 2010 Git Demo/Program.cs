@@ -10,6 +10,7 @@ namespace VS_2010_Git_Demo
         static void Main(string[] args)
         {
             //HelloWorld()
+            //v1.1 changes
         }
     }
 }
