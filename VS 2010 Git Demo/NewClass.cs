@@ -5,11 +5,7 @@ using System.Text;
 
 namespace VS_2010_Git_Demo
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            //HelloWorld()
-        }
     }
 }
