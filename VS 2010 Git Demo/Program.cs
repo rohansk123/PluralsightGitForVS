@@ -11,6 +11,7 @@ namespace VS_2010_Git_Demo
         {
             //HelloWorld()
             //v1.1 changes
+            //these changes will be stashed
 
             //master changes
         }
